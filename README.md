@@ -28,7 +28,7 @@
 - 🤔 My research interests are with Cloud, DevOps, Web-Dev etc.
 - 💼 I’m pursuing a bachelor's degree in computer science.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
+- 📫 Please email via manavkhandurie@gmail.com to reach me.
 
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 
