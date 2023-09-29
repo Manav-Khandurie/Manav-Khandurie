@@ -37,22 +37,22 @@
 
 <br />
 
-**Cloud ☁☁️**
+### **Cloud ☁☁️**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
-**DevOps ♾**
+### **DevOps ♾**
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
 
-**Databases 🛢️📊🧾**
+### **Databases 🛢️📊🧾**
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
 
-**Backend ⚙️🗄️🔙👨‍💻**
+### **Backend ⚙️🗄️🔙👨‍💻**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=50)](https://skillicons.dev)
 
-**Frontend 📱🕸👨‍💻🌐**
+### **Frontend 📱🕸👨‍💻🌐**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react&perline=50)](https://skillicons.dev)
 
-**Programming Languages </>💻**
+### **Programming Languages </>💻**
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
 <br />
 
