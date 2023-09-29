@@ -77,7 +77,8 @@
   <h2><b>My GitStats 📈📊</b></h2>
   </summary>
 <br />
-![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
+
+![Manav's github stats] (https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 </details>
 
 
