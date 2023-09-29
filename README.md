@@ -36,7 +36,8 @@
 </summary>
 
 <br />
-### Cloud ☁☁️
+
+### Cloud ☁
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
 ### DevOps ♾
