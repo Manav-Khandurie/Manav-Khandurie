@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/manav-khandurie/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/khandurie">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
 <a href="mailto:manavkhandurie@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -18,6 +21,9 @@
 </a>
 <a href="https://www.codechef.com/users/manavkhandurie">
   <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+</a>
+<a href="https://www.hackerrank.com/manavkhandurie">
+  <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <br />
 <br />
@@ -63,7 +69,7 @@
 
 </details>
 
-
+<br />
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 
 
