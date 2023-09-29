@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/manav-khandurie/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/khandurie">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
 <a href="mailto:manavkhandurie@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -22,9 +19,6 @@
 <a href="https://www.codechef.com/users/manavkhandurie">
   <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
-<a href="https://www.hackerrank.com/manavkhandurie">
-  <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
 <br />
 <br />
 
@@ -33,7 +27,7 @@
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) &[Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
 - 🌱 I’m currently learning **MERN STACK**.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in Computer Science Engineering.
@@ -41,7 +35,7 @@
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
 
-<br />
+<br>
 <details>
   <summary>
   <h2><b>My Tech Stack 🛠️👨‍💻💻</b></h2>
@@ -69,17 +63,9 @@
 
 </details>
 
-<br />
 
-<br>
-<details>
-  <summary>
-  <h2><b>My GitStats 📈📊</b></h2>
-  </summary>
-<br />
+![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&theme=transparent)
 
-![Manav's github stats] (https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
-</details>
 
 
 
