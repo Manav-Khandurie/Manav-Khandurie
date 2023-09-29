@@ -4,6 +4,9 @@
 <a href="https://github.com/Manav-Khandurie">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
+<a href="https://twitter.com/khandurie">
+  <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/manav-khandurie/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
@@ -18,6 +21,9 @@
 </a>
 <a href="https://www.codechef.com/users/manavkhandurie">
   <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+</a>
+<a href="https://www.hackerrank.com/manavkhandurie">
+  <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <br />
 <br />
@@ -41,7 +47,7 @@
   <h2><b>My Tech Stack 🛠️👨‍💻💻</b></h2>
   </summary>
 <br />
-
+  
 ### **Cloud ☁**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
@@ -63,8 +69,14 @@
 
 </details>
 
-
+<details>
+  <summary>
+  <h2><b>My GitHub- Stats 📈📊</b></h2>
+  </summary>
+<br />
 ![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&theme=transparent)
+</details>
+
 
 
 
