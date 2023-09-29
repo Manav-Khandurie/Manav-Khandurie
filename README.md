@@ -19,12 +19,12 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+<h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git)
 - 🌱 I’m currently learning **MERN STACK**.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
-- 💼 I’m pursuing a Bachelor's Degree in computer science.
+- 💼 I’m pursuing a _Bachelor's Degree_ in Computer Science Engineering.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
@@ -49,7 +49,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,styledcomponents&perline=50)](https://skillicons.dev)
 
 ### **Programming Languages </>💻**
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
