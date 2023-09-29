@@ -1,17 +1,24 @@
 ### Hi there 👋
 ### Welcome to Manav's GitHub 👋
 
-
+<a href="https://github.com/Manav-Khandurie">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
 <a href="https://www.linkedin.com/in/manav-khandurie/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="manavkhandurie@gmail.com">
+<a href="mailto:manavkhandurie@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/manavkhandurie/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-
+<a href="https://hashnode.com/@ManavKhandurie">
+  <img align="left" alt="HashNode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" />
+</a>
+<a href="https://www.codechef.com/users/manavkhandurie">
+  <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+</a>
 <br />
 <br />
 
