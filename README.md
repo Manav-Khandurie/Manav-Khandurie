@@ -1,5 +1,5 @@
-### Hi there 👋
-### Welcome to Manav's GitHub 👋
+<h1> Hi there 👋 </h1>
+<h1> Welcome to Manav's GitHub 👋 </h1>
 
 <a href="https://github.com/Manav-Khandurie">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
