@@ -59,7 +59,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
 
 ### **Backend ⚙️🗄️🔙👨‍💻**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,styledcomponents&perline=50)](https://skillicons.dev)
