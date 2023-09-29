@@ -1,5 +1,7 @@
 <h1> Hi there 👋 </h1>
-<h1> Welcome to Manav's GitHub 👋 </h1>
+<h1> Welcome to my GitHub 🤗 </h1>
+
+Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓, data structures and algorithms 🗃️🧮, and more. You can find my contact information below! 😊🚀
 
 <a href="https://github.com/Manav-Khandurie">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
@@ -11,7 +13,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="mailto:manavkhandurie@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/manavkhandurie/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
@@ -33,10 +35,10 @@
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) &[Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
-- 🌱 I’m currently learning **MERN STACK**.
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
+- 🌱 I’m currently learning **MERN STACK** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
-- 💼 I’m pursuing a _Bachelor's Degree_ in Computer Science Engineering.
+- 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
@@ -44,7 +46,7 @@
 <br>
 <details>
   <summary>
-  <h2><b>My Tech Stack 🛠️👨‍💻💻</b></h2>
+  <h2>My Tech Stack 🛠️👨‍💻💻</h2>
   </summary>
   
 ### **Cloud ☁**
@@ -65,7 +67,7 @@
 ### **Programming Languages </>💻**
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
 
-### **IDE's 🔣📟#️⃣**
+### **IDE's 🖥️📟#️⃣**
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse&perline=50)](https://skillicons.dev)
 
 </details>
