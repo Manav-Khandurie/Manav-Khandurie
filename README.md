@@ -17,14 +17,14 @@
 
 <!-- Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source professional and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️. -->
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
 - 👨🏻‍💻 I’m currently working on https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git
-- 🌱 I’m currently learning MERN STACK.
-- 🤔 My research interests are with Cloud, DevOps, Web-Dev etc.
-- 💼 I’m pursuing a bachelor's degree in computer science.
+- 🌱 I’m currently learning **MERN STACK**.
+- 🤔 My research interests are with **Cloud, DevOps, Web-Dev** etc.
+- 💼 I’m pursuing a Bachelor's Degree in computer science.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
@@ -37,22 +37,22 @@
 
 <br />
 
-### Cloud ☁
+**Cloud ☁☁️**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
-### DevOps ♾
+**DevOps ♾**
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
 
-### Databases 🛢️📊🧾
+**Databases 🛢️📊🧾**
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
 
-### Backend ⚙️🗄️🔙👨‍💻 
+**Backend ⚙️🗄️🔙👨‍💻**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=50)](https://skillicons.dev)
 
-### Frontend 📱🕸👨‍💻🌐 
+**Frontend 📱🕸👨‍💻🌐**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react&perline=50)](https://skillicons.dev)
 
-### Prpgramming Languages </>💻 
+**Programming Languages </>💻**
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
 <br />
 
