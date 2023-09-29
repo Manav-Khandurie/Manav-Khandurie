@@ -21,7 +21,7 @@
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks][https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git]
+- 👨🏻‍💻 I’m currently working on https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git
 - 🌱 I’m currently learning **MERN STACK**.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
 - 💼 I’m pursuing a Bachelor's Degree in computer science.
@@ -36,7 +36,7 @@
   </summary>
 <br />
 
-### **Cloud ☁☁️**
+### **Cloud ☁**
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
 ### **DevOps ♾**
