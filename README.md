@@ -31,9 +31,7 @@
 
 <br>
 <details>
-<summary>
   <h2><b>My Tech Stack 🛠️👨‍💻💻</b></h2>
-</summary>
 
 <br />
 
@@ -58,6 +56,7 @@
 
 </details>
 
+<br>
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 
 
