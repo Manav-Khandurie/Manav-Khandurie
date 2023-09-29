@@ -28,6 +28,10 @@
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react&perline=3)](https://skillicons.dev)
+
+
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 
 
