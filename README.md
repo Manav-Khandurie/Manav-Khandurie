@@ -33,7 +33,7 @@
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) &[Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
 - 🌱 I’m currently learning **MERN STACK**.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in Computer Science Engineering.
@@ -41,7 +41,7 @@
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
 
-<br>
+<br />
 <details>
   <summary>
   <h2><b>My Tech Stack 🛠️👨‍💻💻</b></h2>
@@ -70,8 +70,15 @@
 </details>
 
 <br />
-![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
 
+<br>
+<details>
+  <summary>
+  <h2><b>My GitStats 📈📊</b></h2>
+  </summary>
+<br />
+![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
+</details>
 
 
 
