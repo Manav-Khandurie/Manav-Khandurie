@@ -32,45 +32,23 @@
 
 ### My Tech Stack👨‍💻💻
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+### Cloud ☁
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
-  <!-- Cloud -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>Cloud ☁</h3>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=3" alt="Cloud Skills">
-  </div>
+### DevOps ♾
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
 
-  <!-- DevOps -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>DevOps ♾</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins&perline=3" alt="DevOps Skills">
-  </div>
+### Databases 🛢️📊🧾
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
 
-  <!-- Databases -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>Databases 🛢️📊🧾</h3>
-    <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=3" alt="Database Skills">
-  </div>
+### Backend ⚙️🗄️🔙👨‍💻 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=50)](https://skillicons.dev)
 
-  <!-- Backend -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>Backend ⚙️🗄️🔙👨‍💻</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman&perline=3" alt="Backend Skills">
-  </div>
+### Frontend 📱🕸👨‍💻 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react&perline=50)](https://skillicons.dev)
 
-  <!-- Frontend -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>Frontend 📱🕸👨‍💻</h3>
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react&perline=3" alt="Frontend Skills">
-  </div>
-
-  <!-- Programming Languages -->
-  <div style="flex: 1; max-width: 200px;">
-    <h3>Programming Languages </>💻</h3>
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=3" alt="Programming Languages Skills">
-  </div>
-
-</div>
+### Prpgramming Languages </>💻 
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
 
 
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
