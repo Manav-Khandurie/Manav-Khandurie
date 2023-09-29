@@ -32,6 +32,18 @@
 
 ### My Tech Stack👨‍💻💻
 
+
+
+
+![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
+
+<details>
+<summary>
+  My Tech Stack👨‍💻💻
+</summary>
+
+<br />
+
 ### Cloud ☁
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
 
@@ -49,10 +61,10 @@
 
 ### Prpgramming Languages </>💻 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
+<br />
 
 
-![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true&hide_border=true)
-
+</details>
 
 
 
