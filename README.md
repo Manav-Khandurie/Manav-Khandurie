@@ -46,7 +46,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <br>
 <details>
   <summary>
-  <h2>My Tech Stack 🛠️👨‍💻💻</h2>
+  <b > My Tech Stack 🛠️👨‍💻💻</b>
   </summary>
   
 ### **Cloud ☁**
@@ -74,7 +74,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <details>
   <summary>
-  <h2><b>My GitHub- Stats 📈📊</b></h2>
+  <b>My GitHub- Stats 📈📊</b>
   </summary>
 <br />
 <a >
