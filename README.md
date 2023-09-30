@@ -28,7 +28,6 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <br />
-<br />
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
