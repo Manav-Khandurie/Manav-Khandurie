@@ -1,5 +1,4 @@
-<h1> Hi there 👋 </h1>
-<h1> Welcome to my GitHub 🤗 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&width=435&height=100&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓, data structures and algorithms 🗃️🧮, and more. You can find my contact information below! 😊🚀
 
@@ -30,7 +29,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <br />
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 <h2> <b>Current Status Quo</b> </h2>
 
@@ -39,7 +38,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via manavkhandurie@gmail.com to reach me.
+- 📫 Please email via manavkhandurie@gmail.com .
 
 <br>
 <details>
@@ -98,6 +97,9 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 
 <!--
+
+<h1> Hi there 👋 </h1>
+<h1> Welcome to my GitHub 🤗 </h1>
 **Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
