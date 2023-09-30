@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 <br />
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓, data structures and algorithms 🗃️🧮, and more. You can find my contact information below! 😊🚀
 
@@ -89,13 +89,22 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <a >
   <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" />
 </a>
+
   <br />
 </details>
 
-<br />
+<details>
+  <summary>
+  <b >My Github Trophies 🏆</b>
+  </summary>
+  <a >
+  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?" />
+  </a>
+</details>
 
 
 ![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
+
 
 
 
@@ -107,6 +116,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 **Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
