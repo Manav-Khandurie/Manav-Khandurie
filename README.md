@@ -47,10 +47,10 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   </summary>
   
 ### **Cloud ☁**
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
 
-### **DevOps ♾**
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
+### **DevOps Tools♾**
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
 
 ### **Databases 🛢️📊🧾**
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
@@ -59,7 +59,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,styledcomponents&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
 
 ### **Programming Languages </>💻**
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
@@ -83,7 +83,9 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <a >
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=Manav-Khandurie&theme=swift" />
 </a>
-
+<a >
+  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" />
+</a>
   <br />
 </details>
 
@@ -95,9 +97,8 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 
 
-
 <!--
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1> Hi there 👋 </h1>
 <h1> Welcome to my GitHub 🤗 </h1>
 **Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
