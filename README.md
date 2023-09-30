@@ -42,7 +42,6 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com to reach me.
 
-
 <br>
 <details>
   <summary>
@@ -83,9 +82,14 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <a >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" />
 </a>
+  <a >
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Manav-Khandurie&theme=swift" />
+</a>
+
+  <br />
 </details>
 
-
+<br />
 
 
 
@@ -96,7 +100,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <!--
 **Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
-
+![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
