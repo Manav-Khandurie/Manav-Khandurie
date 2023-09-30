@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&repeat=false&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 <br />
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓, data structures and algorithms 🗃️🧮, and more. You can find my contact information below! 😊🚀
 
@@ -25,6 +25,9 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 </a>
 <a href="https://www.hackerrank.com/manavkhandurie">
   <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+</a>
+<a href="https://codesandbox.io/u/manavkhandurie">
+  <img align="left" alt="CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codesandbox.svg" />
 </a>
 <br />
 
@@ -65,7 +68,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
 
 ### **IDE's 🖥️📟#️⃣**
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
 
 </details>
 
