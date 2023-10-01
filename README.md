@@ -98,7 +98,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <b >My Github Trophies 🏆</b>
   </summary>
   <a >
-  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh" />
+  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true" />
   </a>
 </details>
 
