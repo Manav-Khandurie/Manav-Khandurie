@@ -84,7 +84,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" />
 </a>
   <a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Manav-Khandurie&theme=swift" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" />
 </a>
 <a >
   <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" />
