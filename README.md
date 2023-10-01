@@ -84,7 +84,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" />
 </a>
   <a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Manav-Khandurie&theme=shadow-blue&background=87%2CFFFFFF%2CFFFCC1" />
 </a>
 <a >
   <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" />
@@ -117,6 +117,8 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
 [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+https://streak-stats.demolab.com?user=Manav-Khandurie&theme=shadow-blue&background=87%2CFFFFFF%2CFFFCC1
+https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
