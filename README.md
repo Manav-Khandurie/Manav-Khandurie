@@ -116,7 +116,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 
 <br />
-[![Leetcode Stats](https://leetcard.jacoblin.cool/manavkhandurie)](https://leetcode.com/manavkhandurie)
+
 
 
 <!--
