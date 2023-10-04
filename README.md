@@ -84,6 +84,12 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" />
 </a>
   <a >
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=github&utcOffset=8" />
+</a>
+<a >
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=github" />
+</a>
+  <a >
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" />
 </a>
 <a >
@@ -107,6 +113,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 
 
+
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1> Hi there 👋 </h1>
@@ -117,7 +124,8 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 https://streak-stats.demolab.com?user=Manav-Khandurie&theme=shadow-blue&background=87%2CFFFFFF%2CFFFCC1
 https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=transparent)
 [![An image of @manavkhandurie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavkhandurie)](https://holopin.io/@manavkhandurie)
 
 Here are some ideas to get you started:
