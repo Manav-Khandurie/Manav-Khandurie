@@ -115,6 +115,10 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanav-khandurie-a72230261%2F&count_bg=%230600FF&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<br />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/manavkhandurie)](https://leetcode.com/manavkhandurie)
+
+
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1> Hi there 👋 </h1>
