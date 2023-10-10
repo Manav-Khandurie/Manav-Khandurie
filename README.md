@@ -117,11 +117,13 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <br />
 
+https://img.shields.io/badge/-000000?logo=leetcode
 
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1> Hi there 👋 </h1>
+![Static Badge](https://img.shields.io/badge/Discord-202020?logo=discord&logoColor=%235865F2&link=http%3A%2F%2Fdiscord.gg%2F2rnWsvkX)
 <h1> Welcome to my GitHub 🤗 </h1>
 **Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
@@ -132,6 +134,12 @@ https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=transparent&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=transparent)
 [![An image of @manavkhandurie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavkhandurie)](https://holopin.io/@manavkhandurie)
+
+
+
+
+
+https://img.shields.io/badge/-000000?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F
 
 Here are some ideas to get you started:
 
