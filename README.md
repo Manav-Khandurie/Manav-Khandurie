@@ -117,7 +117,6 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <br />
 
-https://img.shields.io/badge/-000000?logo=leetcode
 
 
 <!--
