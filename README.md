@@ -78,22 +78,22 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   </summary>
 <br />
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manav-Khandurie" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manav-Khandurie" loading="lazy"/>
 </a>
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" loading="lazy"/>
 </a>
   <a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=github&utcOffset=8" />
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=github&utcOffset=8" loading="lazy"/>
 </a>
 <a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=github" />
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=github" loading="lazy"/>
 </a>
   <a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" loading="lazy"/>
 </a>
 <a >
-  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" />
+  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" loading="lazy"/>
 </a>
 
   <br />
@@ -104,7 +104,16 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <b >My Github Trophies 🏆</b>
   </summary>
   <a >
-  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true" />
+  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true" loading="lazy" />
+  </a>
+</details>
+
+<details>
+  <summary>
+  <b >Halopin ✌️</b>
+  </summary>
+  <a >
+      <img align="center" src="https://holopin.me/manavkhandurie" loading="lazy" />
   </a>
 </details>
 
