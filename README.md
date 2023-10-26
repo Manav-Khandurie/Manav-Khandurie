@@ -32,7 +32,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <br />
 
 
-<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
 <h2> <b>Current Status Quo</b> </h2>
 
@@ -110,7 +110,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <details>
   <summary>
-  <b >Halopin ✌️</b>
+  <b >Holopin ✌️</b>
   </summary>
   <a >
       <img align="center" src="https://holopin.me/manavkhandurie" loading="lazy" />
