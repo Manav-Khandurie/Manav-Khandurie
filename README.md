@@ -30,7 +30,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <img align="left" alt="CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codesandbox.svg" />
 </a>
 <br />
-
+ 
 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
