@@ -110,7 +110,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <details>
   <summary>
-  <b >Holopin ✌️</b>
+  <b >Holopin 🐉</b>
   </summary>
   <a >
       <img align="center" src="https://holopin.me/manavkhandurie" loading="lazy" />
