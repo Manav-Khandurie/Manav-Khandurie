@@ -62,10 +62,10 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
 
 ### **Programming Languages </>💻**
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,c,cpp&perline=50)](https://skillicons.dev)
 
 ### **IDE's 🖥️📟#️⃣**
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
@@ -104,7 +104,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
   <b >My Github Trophies 🏆</b>
   </summary>
   <a >
-  <img height=200 align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true" loading="lazy" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Manav-Khandurie&no-frame=true" />
   </a>
 </details>
 
@@ -143,7 +143,7 @@ https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=transparent)
 [![An image of @manavkhandurie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavkhandurie)](https://holopin.io/@manavkhandurie)
 
-
+https://github-profile-trophy.vercel.app/?username=Manav-Khandurie&no-frame=true
 
 
 
