@@ -36,7 +36,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) 
 - 🌱 I’m currently learning **MERN STACK** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
@@ -145,7 +145,7 @@ https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
 
 https://github-profile-trophy.vercel.app/?username=Manav-Khandurie&no-frame=true
 
-
+& [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
 
 https://img.shields.io/badge/-000000?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F
 
