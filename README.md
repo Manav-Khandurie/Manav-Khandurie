@@ -118,6 +118,9 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <br />
 
 <!-- HTML and CSS for Styled Social Icons -->
+
+
+<!--
 <style>
     /* Container for social icons */
     .social-icons {
@@ -148,9 +151,6 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
         color: inherit;
     }
 </style>
-
-
-<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1> Hi there 👋 </h1>
 ![Static Badge](https://img.shields.io/badge/Discord-202020?logo=discord&logoColor=%235865F2&link=http%3A%2F%2Fdiscord.gg%2F2rnWsvkX)
