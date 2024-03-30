@@ -2,8 +2,13 @@
 <br />           
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀 
                                                                      
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+<i className="ci ci-leetcode ci-2x"></i>
 <a href="https://github.com/Manav-Khandurie">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+  <i className="ci ci-github-light ci-2x"></i>
 </a>
 <a href="https://twitter.com/khandurie">
   <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
@@ -53,13 +58,16 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
 
 ### **DevOps Tools♾**
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform&perline=50)](https://skillicons.dev)
 
 ### **Databases 🛢️📊🧾**
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
 
+### **Machine Learning 🤖🧠🦾**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=50)](https://skillicons.dev)
+
 ### **Backend ⚙️🗄️🔙👨‍💻**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug,yarn,npm&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
@@ -68,7 +76,11 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,c,cpp&perline=50)](https://skillicons.dev)
 
 ### **IDE's 🖥️📟#️⃣**
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
+
+### **Operating Systems 📂💻🏾**
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali&perline=50)](https://skillicons.dev)
+
 
 </details>
 
