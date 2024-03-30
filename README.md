@@ -1,41 +1,19 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 <br />           
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀 
                                                                    
 
-<a href="https://github.com/Manav-Khandurie">
-  <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/manav-khandurie/">
-  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/manavkhandurie/">
-  <img align="left" alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" />
-</a>
-<a href="mailto:manavkhandurie@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" />
-</a>
-<a href="https://twitter.com/khandurie">
-  <img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" />
-</a>
-<a href="https://discordapp.com/users/1130906260670263357)">
-  <img align="left" alt="Discord" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" />
-</a>
-<a href="https://hashnode.com/@ManavKhandurie">
-  <img align="left" alt="HashNode" width="40px" src="https://img.icons8.com/color/48/hashnode.png" />
-</a>
-<a href="https://www.codechef.com/users/manavkhandurie">
-  <img align="left" alt="CodeChef" width="40px" src="https://img.icons8.com/color/48/codechef.png" />
-</a>
-<a href="https://www.hackerrank.com/manavkhandurie">
-  <img align="left" alt="Hackerrank" width="40px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
-</a>
-<a href="https://codesandbox.io/u/manavkhandurie">
-  <img align="left" alt="CodeSandBox" width="40px" src="https://www.svgrepo.com/show/354887/code-sandbox.svg" />
-</a>
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Manav-Khandurie)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/manav-khandurie/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" width="40px">](https://leetcode.com/manavkhandurie/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:manavkhandurie@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" width="40px">](https://twitter.com/khandurie)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" width="40px">](https://discordapp.com/users/1130906260670263357)
+[<img src="https://img.icons8.com/color/48/hashnode.png" width="40px">](https://hashnode.com/@ManavKhandurie)
+[<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/manavkhandurie)
+[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/manavkhandurie)
+[<img src="https://www.svgrepo.com/show/354887/code-sandbox.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
 
-<br />
-<br /> 
 
 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
@@ -139,6 +117,37 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <br />
 
+<!-- HTML and CSS for Styled Social Icons -->
+<style>
+    /* Container for social icons */
+    .social-icons {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+        gap: 10px;
+        justify-content: center;
+    }
+
+    /* Styling for individual social icons */
+    .social-icons a {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        overflow: hidden;
+        transition: transform 0.3s ease;
+    }
+
+    /* Hover effect on social icons */
+    .social-icons a:hover {
+        transform: scale(1.1);
+    }
+
+    /* Remove default link styles */
+    .social-icons a {
+        text-decoration: none;
+        color: inherit;
+    }
+</style>
 
 
 <!--
@@ -172,5 +181,41 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://github.com/Manav-Khandurie">
+  <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/manav-khandurie/">
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/manavkhandurie/">
+  <img align="left" alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" />
+</a>
+<a href="mailto:manavkhandurie@gmail.com">
+  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" />
+</a>
+<a href="https://twitter.com/khandurie">
+  <img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" />
+</a>
+<a href="https://discordapp.com/users/1130906260670263357)">
+  <img align="left" alt="Discord" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" />
+</a>
+<a href="https://hashnode.com/@ManavKhandurie">
+  <img align="left" alt="HashNode" width="40px" src="https://img.icons8.com/color/48/hashnode.png" />
+</a>
+<a href="https://www.codechef.com/users/manavkhandurie">
+  <img align="left" alt="CodeChef" width="40px" src="https://img.icons8.com/color/48/codechef.png" />
+</a>
+<a href="https://www.hackerrank.com/manavkhandurie">
+  <img align="left" alt="Hackerrank" width="40px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
+</a>
+<a href="https://codesandbox.io/u/manavkhandurie">
+  <img align="left" alt="CodeSandBox" width="40px" src="https://www.svgrepo.com/show/354887/code-sandbox.svg" />
+</a>
+
 -->
+
+
+
 <!-- Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source professional and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️. -->
