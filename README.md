@@ -1,41 +1,42 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 <br />           
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀 
-                                                                     
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-<i className="ci ci-leetcode ci-2x"></i>
+                                                                   
+
 <a href="https://github.com/Manav-Khandurie">
-  <i className="ci ci-github-light ci-2x"></i>
-</a>
-<a href="https://twitter.com/khandurie">
-  <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+  <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manav-khandurie/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-<a href="mailto:manavkhandurie@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/manavkhandurie/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" />
+</a>
+<a href="mailto:manavkhandurie@gmail.com">
+  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" />
+</a>
+<a href="https://twitter.com/khandurie">
+  <img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" />
+</a>
+<a href="https://discordapp.com/users/1130906260670263357)">
+  <img align="left" alt="Discord" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" />
 </a>
 <a href="https://hashnode.com/@ManavKhandurie">
-  <img align="left" alt="HashNode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" />
+  <img align="left" alt="HashNode" width="40px" src="https://img.icons8.com/color/48/hashnode.png" />
 </a>
 <a href="https://www.codechef.com/users/manavkhandurie">
-  <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+  <img align="left" alt="CodeChef" width="40px" src="https://img.icons8.com/color/48/codechef.png" />
 </a>
 <a href="https://www.hackerrank.com/manavkhandurie">
-  <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+  <img align="left" alt="Hackerrank" width="40px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
 </a>
 <a href="https://codesandbox.io/u/manavkhandurie">
-  <img align="left" alt="CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codesandbox.svg" />
+  <img align="left" alt="CodeSandBox" width="40px" src="https://www.svgrepo.com/show/354887/code-sandbox.svg" />
 </a>
+
 <br />
- 
+<br /> 
+
 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
