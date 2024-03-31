@@ -9,20 +9,21 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:manavkhandurie@gmail.com)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" width="40px">](https://twitter.com/khandurie)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" width="40px">](https://discordapp.com/users/1130906260670263357)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/telegram/telegram2.svg" width="40px">](https://t.me/manavkhandurie)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/docker/docker.webp" width="40px">](https://hub.docker.com/u/manavkhandurie)
 [<img src="https://img.icons8.com/color/48/hashnode.png" width="40px">](https://hashnode.com/@ManavKhandurie)
 [<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/manavkhandurie)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/manavkhandurie)
 [<img src="https://www.svgrepo.com/show/354887/code-sandbox.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
-
 
  
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) 
-- 🌱 I’m currently learning **MERN STACK** and **DSA**🔣.
-- 🧐 My research interests are with **Cloud, DevOps, Web-Dev**, etc.
+- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [FileBin](https://github.com/Manav-Khandurie/file-bin-aws-csm-project.git)
+- 🌱 I’m currently learning **MERN STACK** ,**DevOps** and **DSA**🔣.
+- 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via manavkhandurie@gmail.com .
