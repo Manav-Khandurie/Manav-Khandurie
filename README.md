@@ -15,7 +15,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [<img src="https://www.svgrepo.com/show/354887/code-sandbox.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
 
 
-
+ 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
 <h2> <b>Current Status Quo</b> </h2>
