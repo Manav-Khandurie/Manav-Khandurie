@@ -15,7 +15,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/manavkhandurie)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/manavkhandurie)
 [<img src="https://www.svgrepo.com/show/354887/code-sandbox.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
-
+[<img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
  
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
