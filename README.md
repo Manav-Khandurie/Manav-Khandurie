@@ -39,7 +39,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
 
 ### **DevOps Tools♾**
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform,maven&perline=50)](https://skillicons.dev)
 
 ### **Databases 🛢️📊🧾**
 [![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
@@ -47,8 +47,11 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 ### **Machine Learning 🤖🧠🦾**
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=50)](https://skillicons.dev)
 
+### **Testing 🧪🔎✅**
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,selenium,postman&perline=50)](https://skillicons.dev)
+
 ### **Backend ⚙️🗄️🔙👨‍💻**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,kafka,rabbitmq,postman,pug,yarn,npm&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,nginx,kafka,rabbitmq,pug,yarn,npm&perline=50)](https://skillicons.dev)
 
 ### **Frontend 📱🕸👨‍💻🌐**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
@@ -60,7 +63,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 [![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
 
 ### **Operating Systems 📂💻🏾**
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,kali,redhat&perline=50)](https://skillicons.dev)
 
 
 </details>
