@@ -91,7 +91,8 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <a >
   <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" loading="lazy"/>
 </a>
- 
+ <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Manav Khandurie's Dev Card"/></a>
+
   <br />
 </details>
 
