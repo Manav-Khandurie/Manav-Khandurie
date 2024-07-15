@@ -119,14 +119,14 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
  <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Manav Khandurie's Dev Card"/></a>
 </details>
 
-![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManav-Khandurie%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F&count_bg=%23FFB400&title_bg=%23555555&icon=leetcode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanav-khandurie-a72230261%2F&count_bg=%230600FF&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F&count_bg=%23FFB400&title_bg=%23555555&icon=leetcode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![LeetCode user manavkhandurie](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanavkhandurie&logo=leetcode&logoColor=yellow)](https://leetcode.com/manavkhandurie/)
 <br />
-
+<br />
+![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green&style=flat-square)
 <!-- HTML and CSS for Styled Social Icons -->
 
 
