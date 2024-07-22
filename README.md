@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
 <br />           
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀 
-                                                                                                     
+                                                                                                      
                               
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Manav-Khandurie)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/manav-khandurie/)
