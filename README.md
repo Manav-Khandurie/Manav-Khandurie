@@ -22,7 +22,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AgileTalks](https://github.com/Manav-Khandurie/AgileTalks-WebChatApp-Microservices.git) & [FileBin](https://github.com/Manav-Khandurie/file-bin-aws-csm-project.git)
+- 👨🏻‍💻 I’m currently working on [FinSights](https://github.com/tanmayy-mishra/Fin-Sight.git)
 - 🌱 I’m currently learning **MERN STACK** ,**DevOps** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
