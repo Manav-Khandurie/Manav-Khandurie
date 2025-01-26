@@ -2,7 +2,7 @@
 <br />           
 Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ and web developer🌐. Currently, I'm in my pre-final year at UPES. Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀  
                                                                                                                                                                             
-                                                                               
+                                                                                
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Manav-Khandurie)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/manav-khandurie/)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" width="40px">](https://leetcode.com/manavkhandurie/)
@@ -22,8 +22,8 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [FinSights](https://github.com/tanmayy-mishra/Fin-Sight.git)
-- 🌱 I’m currently learning **MERN STACK** ,**DevOps** and **DSA**🔣.
+- 👨🏻‍💻 I’m currently working on GEN-AI
+- 🌱 I’m currently learning **GenAI** ,**DevOps** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
 - 💼 I’m pursuing a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
