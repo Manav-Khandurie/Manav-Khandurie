@@ -23,7 +23,7 @@ Hello World 🌎! I'm **Manav Khandurie**, a passionate cloud enthusiast☁️ a
 <h2> <b>Current Status Quo</b> </h2>
 
 - 👨🏻‍💻 I’m currently working on [AI-Agents](https://github.com/Manav-Khandurie/agents.git)
-- 🌱 I’m currently learning **GenAI** ,**DevOps** and **DSA**🔣.
+- 🌱 I’m currently learning **GenAI** ,**AI-Agents** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
 - 💼 I pursued a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
